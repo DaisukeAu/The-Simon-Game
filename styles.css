@@ -1,0 +1,44 @@
+body{
+  background-color: #0a2041;
+}
+
+h1{
+  color: white;
+  text-align: center;
+  margin-top: 50px;
+}
+.tile{
+  width: 200px;
+  height: 200px;
+  margin: auto;
+  border: solid 10px black;
+  border-radius: 10%;
+}
+
+.tiles{
+  margin-top: 6%;
+}
+
+.row{
+  text-align: center;
+}
+
+.red{
+  background-color: red;
+}
+
+.green{
+  background-color: green;
+}
+
+.blue{
+  background-color: blue;
+}
+
+.yellow{
+  background-color: yellow;
+}
+
+.bottom{
+  margin-top: 5%;
+}
